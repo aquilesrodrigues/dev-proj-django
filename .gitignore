@@ -3,6 +3,7 @@
 /djangoapp/project/local_settings.py
 gunicorn-error-log
 __localcode
+# Usado pelo docker
 /data/
 
 # Django #
